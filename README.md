@@ -7,6 +7,7 @@
 Evaluation sur le cours IJVS040 - Créer des interfaces web interactives avec Vue.js
 
 Temps : 2h.
+Date : 21/10/2021
 
 Par l'interlocuteur Clément B.
 
